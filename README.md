@@ -3,8 +3,6 @@
 
 Throughout my career, I have built a number of large-scale systems and operation tools, most of them are still running in production !
 
-I have strong interests in various tech stuff such as Artificial Intelligence, Cryptocurrencies and Smart Home.
-
 </p>
 
 ## Some of my Github Stats
